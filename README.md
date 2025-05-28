@@ -1,12 +1,12 @@
-# Verificador de Número Par/Ímpar
+# 📝 Verificador de Número Par/Ímpar
 
 Um programa simples em Python que verifica se um número inteiro é par ou ímpar e permite múltiplas verificações em uma única execução.
 
-## Como Funciona
+## 💡 Como Funciona
 
 O programa solicita um número ao usuário. Após a entrada, ele verifica se o número é divisível por 2 (par) ou não (ímpar) e exibe o resultado. O usuário pode continuar verificando números até decidir sair.
 
-## Funcionalidades
+## 📖 Funcionalidades
 
 - **Verificação Par/Ímpar:** Determina se o número digitado é par ou ímpar.
 
@@ -14,7 +14,7 @@ O programa solicita um número ao usuário. Após a entrada, ele verifica se o n
 
 - **Loop Contínuo:** O programa pergunta se o usuário deseja continuar após cada verificação.
 
-## Como Executar
+## ▶️ Como Executar
 
 1. Certifique-se de ter o Python instalado (versão 3.x recomendada).
 
@@ -52,14 +52,14 @@ Programa encerrado. Até mais!
 
 ```
 
-## Requisitos
+## 🛠️ Requisitos
 
 - Python 3.x
 
-## Licença
+## 📄 Licença
 
 Este projeto é livre para uso pessoal e educacional, Faz Parte do Projeto [Estudos Python](https://github.com/ei-Gih/Estudos_Python), cofira os outros.
 
-## Contribuição
+## ✨ Contribuição
 
 Esse é o meu primeiro projeto na área de programação e estou sempre buscando melhorar! Feedbacks e sugestões são muito bem-vindos. 🚀
